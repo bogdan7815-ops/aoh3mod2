@@ -1,0 +1,6 @@
+{
+	Name: "No Coalitions Mod",
+	Description: "Removes coalitions for aggressive expansion in Age of History 3",
+	Tags: [ "Gameplay" ],
+	ChangeNote: "v1.0 - Initial release",
+}
