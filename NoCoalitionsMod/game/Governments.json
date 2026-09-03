@@ -1,0 +1,40 @@
+[
+        {
+                Name: "Monarchy",
+                Extra_Tag: "m",
+                GOV_GROUP_ID: 0,
+                
+                RulerTitle: King,
+                RulerRoman: true,
+                KingsImages: true,
+                
+                Color: [255, 194, 36],
+                
+                REQUIRED_TECHNOLOGY: -1,
+                
+                REVOLUTIONISTS: false,
+                TRIBAL: false,
+                STARTING_ARMY: 1.0,
+                
+                AdvisorCost: -0.1,
+                MonthlyLegacy: 0.4,
+                MaxManpower: 2000,
+                
+                AI_EXTRA_AGGRESSIVENESS: 100,
+                
+                AI_PEACE_ORDER_CHANCE: 85,
+                AI_PEACE_ORDER_CHANCE2: 15,
+                
+                AI_PEACE_ORDER: [0, 1, 2, 3, 6, 5, 7, 8, 4],
+                AI_PEACE_ORDER2: [1, 0, 3, 2, 5, 4, 6, 7, 8],
+                
+                AI_BUILD_SCORE: [85, 65, 30, 60, 35, 65, 45, 25, 45, 65, 84, 40, 25, 50, 40, 0],
+                
+                AI_BUILD_INVEST_IN_ECONOMY: 25,
+                AI_BUILD_INCREASE_TAX_EFFICIENCY: 40,
+                AI_BUILD_INCREASE_MANPOWER: 52,
+                AI_BUILD_INCREASE_GROWTH_RATE: 62,
+                AI_BUILD_DEVELOP_INFRASTRUCTURE: 68,
+                AI_BUILD_BUILDING: 100,
+        },
+]
