@@ -1,0 +1,8 @@
+{
+        Name: "No Coalitions Mod",
+        Description: "Removes coalition formation against players with high aggressive expansion. Enjoy conquest without coalition penalties!",
+
+        Tags: [ "Gameplay", "Diplomacy" ],
+
+        ChangeNote: "Initial release - disables coalitions for aggressive expansion",
+}
